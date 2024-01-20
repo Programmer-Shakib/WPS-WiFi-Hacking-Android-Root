@@ -14,7 +14,7 @@
  - [iw](https://wireless.wiki.kernel.org/en/users/documentation/iw).
 
 
-                        [Termux](https://termux.com/)
+                        #TERMUX
 Please note that root access is required.  
 
 #### Manually
