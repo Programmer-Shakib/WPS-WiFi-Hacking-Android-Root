@@ -16,7 +16,9 @@
 
                         #TERMUX
 Please note that root access is required.  
-
+#### Using installer
+ ```curl -sSf https://raw.githubusercontent.com/Sakib-BD-PLAYX/WPS-WiFi-Hacking-Android-Root_Termux_Installer/master/installer.sh | bash
+ ```
 #### Manually
 **Installing requirements**
  ```
